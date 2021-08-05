@@ -1,5 +1,6 @@
 # The_Grid
-Malware finder and sorce code scanner.
+Tron version 2.0 Virus locater and sorce code scanner.
+
 For tranparancy I created this with the help of walktroughs in order to understand what I was coding. With this information I was able to create my own version of the Tron script.
 (This program was heavily inspired by the Tron de-bloat program)
 
